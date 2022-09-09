@@ -1,0 +1,6 @@
+**Ticket:** #🟢┃rec_120
+
+18/02/2022 ás 11:32:57 [ pablo escobar#2056 ]> Boa tarde
+18/02/2022 ás 11:33:27 [ pablo escobar#2056 ]> Eu quero saber quando ocorre o recrutamento,pois para mim nao aparece o chat de data de rec
+18/02/2022 ás 11:33:41 [ Brenda#8080 ]> Boa tarde
+18/02/2022 ás 11:35:13 [ Brenda#8080 ]> Após seu formulário ser corrigido caso você seja aprovado, receberá uma tag que permite que veja o canal com a data marcada
